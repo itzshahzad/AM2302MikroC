@@ -1,0 +1,15 @@
+tempfile.txt
+*.mcl
+*.cp
+*.ini
+MyProject.bmk
+
+MyProject.brk
+MyProject.cfg
+MyProject.dbg
+MyProject.dct
+MyProject.dlt
+MyProject.hex
+#MyProject.mcppi
+MyProject.mcppi_callertable.txt
+MyProject.user.dic 
